@@ -6,9 +6,11 @@ pragma solidity ^0.5.13;
                 ****                                                             ****
                 **** DEVELOPED BY-                                               ****
                 **** SAWAN KAG (sawankag1999@gmail.com)                          ****
-                **** PRANAV VERMA (vermapranav86@gmail.com)                      ****
+                **** PRANAV VERMA (vermapranav86@gmail.com)   
+                **** Contract Addres = 0x3c36C0f63be944a3c86944cEC285B1B732188998 ***
                 *********************************************************************
                 *********************************************************************
+                (Deployed) Contract Link = https://rinkeby.etherscan.io/address/0x3c36c0f63be944a3c86944cec285b1b732188998
 */
 
 contract SharedWallet 
